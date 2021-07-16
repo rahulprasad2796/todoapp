@@ -1,0 +1,33 @@
+.todoitem {
+    box-shadow: 0 0 5px grey;
+    margin: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.remedit {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.textDiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+h1 {
+    width: 50px;
+    margin: 0 auto;
+}
+
+#head {
+    width: 90px;
+    margin: 0 auto;
+}
+
+#head button {
+    margin: 10px auto;
+    width: 60px;
+}
